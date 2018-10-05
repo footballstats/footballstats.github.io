@@ -38,7 +38,7 @@ class scrape_table:
             except IndexError:
                 break
             stats.append(img['alt'])
-            stats.append(img['src'])
+            stats.append('https:' + img['src'])
             data.append(stats)
             
             
