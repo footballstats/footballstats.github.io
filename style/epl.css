@@ -1,0 +1,39 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background: #eee;
+    margin: 0;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-areas: 'left right';
+}
+
+.goalsDiv {
+    grid-area: left;
+}
+
+.assistsDiv {
+    grid-area: right;
+}
+
+.l table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid black;
+    font-family: 'Roboto', sans-serif;
+    background: white;
+}
+
+#head td {
+    font-size: 1.2em;
+    background: #eee;
+}
