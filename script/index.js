@@ -32,13 +32,13 @@ function objectLength(x) {
 
 
 
-let count = 0;
+let count = 1;
 const table = document.getElementById('table');
 for (let player in goals) {
     let row = table.insertRow(count);
+    count ++;
     
     let cell1 = row.insertCell(0);
-
     let flag = document.createElement('img');
     flag.src = goals[player][3];
     flag.title = goals[player][2];
@@ -49,10 +49,11 @@ for (let player in goals) {
     cell1.appendChild(flag);
     cell1.appendChild(space); 
     cell1.appendChild(name);
-    count ++;
 
-    let cell3 = row.insertCell(1);
-    let amount = document.createTextNode(goals[player][1])
-    cell3.appendChild(amount)
+    let cell2 = row.insertCell(1);
+    $(cell2).append(goals[player][0])
+
+    let cell3 = row.insertCell(2);
+    $(cell3).append(goals[player][1]);
 }
 

@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Eden Hazard",
+    "club": "Chelsea",
+    "amount": "6",
+    "nation": "Belgium",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png"
+  },
+  {
+    "name": "Sergio Ag\u00fcero",
+    "club": "Manchester City",
+    "amount": "5",
+    "nation": "Argentina",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
+  },
+  {
+    "name": "Harry Kane",
+    "club": "Tottenham Hotspur",
+    "amount": 5,
+    "nation": "England",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png"
+  },
+  {
+    "name": "Aleksandar Mitrovi\u0107",
+    "club": "Fulham",
+    "amount": 5,
+    "nation": "Serbia",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/23px-Flag_of_Serbia.svg.png"
+  },
+  {
+    "name": "Marko Arnautovi\u0107",
+    "club": "West Ham United",
+    "amount": "4",
+    "nation": "Austria",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png"
+  },
+  {
+    "name": "Romelu Lukaku",
+    "club": "Manchester United",
+    "amount": 4,
+    "nation": "Belgium",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png"
+  },
+  {
+    "name": "Sadio Man\u00e9",
+    "club": "Liverpool",
+    "amount": 4,
+    "nation": "Senegal",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/23px-Flag_of_Senegal.svg.png"
+  },
+  {
+    "name": "Glenn Murray",
+    "club": "Brighton and Hove Albion",
+    "amount": 4,
+    "nation": "England",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png"
+  },
+  {
+    "name": "Raheem Sterling",
+    "club": "Manchester City",
+    "amount": 4,
+    "nation": "England",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png"
+  },
+  {
+    "name": "Ryan Fraser",
+    "club": "Bournemouth",
+    "amount": "3",
+    "nation": "Scotland",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/23px-Flag_of_Scotland.svg.png"
+  },
+  {
+    "name": "Andre Gray",
+    "club": "Watford",
+    "amount": 3,
+    "nation": "England",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png"
+  },
+  {
+    "name": "Danny Ings",
+    "club": "Southampton",
+    "amount": 3,
+    "nation": "England",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png"
+  },
+  {
+    "name": "James Maddison",
+    "club": "Leicester City",
+    "amount": 3,
+    "nation": "England",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png"
+  },
+  {
+    "name": "Lucas Moura",
+    "club": "Tottenham Hotspur",
+    "amount": 3,
+    "nation": "Brazil",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png"
+  },
+  {
+    "name": "Pedro",
+    "club": "Chelsea",
+    "amount": 3,
+    "nation": "Spain",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
+  },
+  {
+    "name": "Roberto Pereyra",
+    "club": "Watford",
+    "amount": 3,
+    "nation": "Argentina",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
+  },
+  {
+    "name": "Richarlison",
+    "club": "Everton",
+    "amount": 3,
+    "nation": "Brazil",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png"
+  },
+  {
+    "name": "Mohamed Salah",
+    "club": "Liverpool",
+    "amount": 3,
+    "nation": "Egypt",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png"
+  },
+  {
+    "name": "Gylfi Sigur\u00f0sson",
+    "club": "Everton",
+    "amount": 3,
+    "nation": "Iceland",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/21px-Flag_of_Iceland.svg.png"
+  },
+  {
+    "name": "Jamie Vardy",
+    "club": "Leicester City",
+    "amount": 3,
+    "nation": "England",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png"
+  },
+  {
+    "name": "Wilfried Zaha",
+    "club": "Crystal Palace",
+    "amount": 3,
+    "nation": "Ivory Coast",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/23px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png"
+  }
+]

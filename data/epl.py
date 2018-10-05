@@ -53,17 +53,26 @@ class scrape_table:
         return data
 
 
-    def get_dict(self):
+    def get_obj(self):
         x = self.get_list()
-        return {i[0]: (i[1],i[2],i[3],i[4]) for i in x}
-
+        obj = []
+        for i in x: 
+            obj.append({
+                'name': i[0],
+                'club': i[1],
+                'amount': i[2],
+                'nation': i[3],
+                'flag': i[4]
+            })
+        return obj
 
 goals = scrape_table(5)
 assists = scrape_table(7)
-goals_assists = [goals.get_dict(), assists.get_dict()]
 
-with open('epl.json', 'w') as f:
-    json.dump(goals_assists, f, indent=2)
+with open('epl_goals.json', 'w') as f:
+    json.dump(goals.get_obj(), f, indent=2)
 
-print('Complete')
-input()
+with open('epl_assists.json', 'w') as f:
+    json.dump(assists.get_obj(), f, indent=2)
+
+
