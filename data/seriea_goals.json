@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Krzysztof Pi\u0105tek",
+    "club": "Genoa",
+    "amount": "8",
+    "nation": "Poland",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png"
+  },
+  {
+    "name": "Gr\u00e9goire Defrel",
+    "club": "Sampdoria",
+    "amount": "5",
+    "nation": "France",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "name": "Lorenzo Insigne",
+    "club": "Napoli",
+    "amount": 5,
+    "nation": "Italy",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png"
+  },
+  {
+    "name": "Rodrigo De Paul",
+    "club": "Udinese",
+    "amount": "4",
+    "nation": "Argentina",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
+  },
+  {
+    "name": "Ciro Immobile",
+    "club": "Lazio",
+    "amount": 4,
+    "nation": "Italy",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png"
+  },
+  {
+    "name": "Mario Mand\u017euki\u0107",
+    "club": "Juventus",
+    "amount": 4,
+    "nation": "Croatia",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Fabio Quagliarella",
+    "club": "Sampdoria",
+    "amount": "4",
+    "nation": "Italy",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "club": "Juventus",
+    "amount": 4,
+    "nation": "Portugal",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png"
+  },
+  {
+    "name": "Jos\u00e9 Callej\u00f3n",
+    "club": "Napoli",
+    "amount": "3",
+    "nation": "Spain",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
+  },
+  {
+    "name": "Domenico Criscito",
+    "club": "Genoa",
+    "amount": 3,
+    "nation": "Italy",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png"
+  },
+  {
+    "name": "Suso",
+    "club": "Milan",
+    "amount": 3,
+    "nation": "Spain",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
+  }
+]

@@ -1,7 +1,3 @@
-* {
-    font-family: sans-serif;
-}
-
 body {
     background: #eee;
     margin: 0;
@@ -13,15 +9,15 @@ body {
     grid-template-areas: 'left right';
 }
 
-.goalsDiv {
+.goal {
     grid-area: left;
 }
 
-.assistsDiv {
+.assist {
     grid-area: right;
 }
 
-.l table {
+table {
     border-collapse: collapse;
     margin: 0 auto;
 }

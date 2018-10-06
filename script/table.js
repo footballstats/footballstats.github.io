@@ -34,5 +34,7 @@ function createTable(tableID, jsonURL) {
   });
 }
 
-createTable('goalsTable', 'https://footballstats.github.io/data/epl_goals.json');
-createTable('assistsTable', 'https://footballstats.github.io/data/epl_assists.json');
+createTable('eplGoals', 'https://footballstats.github.io/data/epl_goals.json');
+createTable('eplAssists', 'https://footballstats.github.io/data/epl_assists.json');
+createTable('serieaGoals', 'https://footballstats.github.io/data/seriea_goals.json');
+createTable('serieaAssists', 'https://footballstats.github.io/data/seriea_assists.json');

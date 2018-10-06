@@ -5,11 +5,11 @@ import json
 
 class scrape_table:
 
-    def __init__(self,index):
-        request = get('https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League')
+    def __init__(self, website, index):
+        request = get(website)
         soup = BeautifulSoup(request.text,'html.parser')
 
-        self.table = soup.find_all('table', class_='wikitable')[index]
+        self.table = soup.find_all('table', class_='wikitable')[index-1]
         self.players = self.table.find_all('tr')[1:]
 
     
@@ -66,13 +66,20 @@ class scrape_table:
             })
         return obj
 
-goals = scrape_table(5)
-assists = scrape_table(7)
+epl_goals = scrape_table('https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League', 6)
+epl_assists = scrape_table('https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League', 8)
 
 with open('epl_goals.json', 'w') as f:
-    json.dump(goals.get_obj(), f, indent=2)
+    json.dump(epl_goals.get_obj(), f, indent=2)
 
 with open('epl_assists.json', 'w') as f:
-    json.dump(assists.get_obj(), f, indent=2)
+    json.dump(epl_assists.get_obj(), f, indent=2)
 
+seriea_goals = scrape_table('https://en.wikipedia.org/wiki/2018–19_Serie_A', 7)
+seriea_assists = scrape_table('https://en.wikipedia.org/wiki/2018–19_Serie_A', 8)
 
+with open('seriea_goals.json', 'w') as f:
+    json.dump(seriea_goals.get_obj(), f, indent=2)
+
+with open('seriea_assists.json', 'w') as f:
+    json.dump(seriea_assists.get_obj(), f, indent=2)
