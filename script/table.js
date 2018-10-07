@@ -36,5 +36,7 @@ function createTable(tableID, jsonURL) {
 
 createTable('eplGoals', 'https://footballstats.github.io/data/epl_goals.json');
 createTable('eplAssists', 'https://footballstats.github.io/data/epl_assists.json');
+createTable('laligaGoals', 'https://footballstats.github.io/data/laliga_goals.json');
+createTable('laligaAssists', 'https://footballstats.github.io/data/laliga_assists.json');
 createTable('serieaGoals', 'https://footballstats.github.io/data/seriea_goals.json');
-createTable('serieaAssists', 'https://footballstats.github.io/data/seriea_assists.json');
+createTable('serieaAssists', 'https://footballstats.github.io/data/seriea_assists.json');s

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Cristhian Stuani",
+    "club": "Girona",
+    "amount": "8",
+    "nation": "Uruguay",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png"
+  },
+  {
+    "name": "Andr\u00e9 Silva",
+    "club": "Sevilla",
+    "amount": "7",
+    "nation": "Portugal",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png"
+  },
+  {
+    "name": "Iago Aspas",
+    "club": "Celta Vigo",
+    "amount": "5",
+    "nation": "Spain",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
+  },
+  {
+    "name": "Lionel Messi",
+    "club": "Barcelona",
+    "amount": 5,
+    "nation": "Argentina",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
+  },
+  {
+    "name": "Karim Benzema",
+    "club": "Real Madrid",
+    "amount": "4",
+    "nation": "France",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "name": "Wissam Ben Yedder",
+    "club": "Sevilla",
+    "amount": 4,
+    "nation": "France",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "name": "Maxi G\u00f3mez",
+    "club": "Celta Vigo",
+    "amount": 4,
+    "nation": "Uruguay",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png"
+  },
+  {
+    "name": "Roger Mart\u00ed",
+    "club": "Levante",
+    "amount": 4,
+    "nation": "Spain",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
+  }
+]

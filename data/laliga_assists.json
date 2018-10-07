@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Jony",
+    "club": "Alav\u00e9s",
+    "amount": "4",
+    "nation": "Spain",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
+  },
+  {
+    "name": "Lionel Messi",
+    "club": "Barcelona",
+    "amount": 4,
+    "nation": "Argentina",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
+  },
+  {
+    "name": "Maxi G\u00f3mez",
+    "club": "Celta Vigo",
+    "amount": "3",
+    "nation": "Uruguay",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png"
+  },
+  {
+    "name": "Antoine Griezmann",
+    "club": "Atl\u00e9tico Madrid",
+    "amount": 3,
+    "nation": "France",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "name": "Jes\u00fas Navas",
+    "club": "Sevilla",
+    "amount": 3,
+    "nation": "Spain",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
+  },
+  {
+    "name": "Pablo Sarabia",
+    "club": "Sevilla",
+    "amount": 3,
+    "nation": "Spain",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
+  }
+]

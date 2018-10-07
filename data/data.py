@@ -83,3 +83,13 @@ with open('seriea_goals.json', 'w') as f:
 
 with open('seriea_assists.json', 'w') as f:
     json.dump(seriea_assists.get_obj(), f, indent=2)
+
+laliga_goals = scrape_table('https://en.wikipedia.org/wiki/2018%E2%80%9319_La_Liga', 7)
+laliga_assists = scrape_table('https://en.wikipedia.org/wiki/2018%E2%80%9319_La_Liga', 8)
+
+with open('laliga_goals.json', 'w') as f:
+    json.dump(laliga_goals.get_obj(), f, indent=2)
+
+with open('laliga_assists.json', 'w') as f:
+    json.dump(laliga_assists.get_obj(), f, indent=2)
+
