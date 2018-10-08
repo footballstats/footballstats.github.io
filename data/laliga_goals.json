@@ -14,18 +14,18 @@
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png"
   },
   {
+    "name": "Lionel Messi",
+    "club": "Barcelona",
+    "amount": "6",
+    "nation": "Argentina",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
+  },
+  {
     "name": "Iago Aspas",
     "club": "Celta Vigo",
     "amount": "5",
     "nation": "Spain",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
-  },
-  {
-    "name": "Lionel Messi",
-    "club": "Barcelona",
-    "amount": 5,
-    "nation": "Argentina",
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
   },
   {
     "name": "Karim Benzema",

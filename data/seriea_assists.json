@@ -1,5 +1,12 @@
 [
   {
+    "name": "Suso",
+    "club": "Milan",
+    "amount": "6",
+    "nation": "Spain",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
+  },
+  {
     "name": "Fabio Quagliarella",
     "club": "Sampdoria",
     "amount": "4",
@@ -26,12 +33,5 @@
     "amount": 3,
     "nation": "Italy",
     "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png"
-  },
-  {
-    "name": "Suso",
-    "club": "Milan",
-    "amount": 3,
-    "nation": "Spain",
-    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
   }
 ]
