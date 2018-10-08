@@ -6,6 +6,8 @@ import json
 class scrape_table:
 
     def __init__(self, website, index):
+        index = int(index)
+
         request = get(website)
         soup = BeautifulSoup(request.text,'html.parser')
 
@@ -69,27 +71,44 @@ class scrape_table:
 epl_goals = scrape_table('https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League', 6)
 epl_assists = scrape_table('https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League', 8)
 
-with open('epl_goals.json', 'w') as f:
+with open('epl_goals.json', 'w+') as f:
     json.dump(epl_goals.get_obj(), f, indent=2)
 
-with open('epl_assists.json', 'w') as f:
+with open('epl_assists.json', 'w+') as f:
     json.dump(epl_assists.get_obj(), f, indent=2)
 
 seriea_goals = scrape_table('https://en.wikipedia.org/wiki/2018–19_Serie_A', 7)
 seriea_assists = scrape_table('https://en.wikipedia.org/wiki/2018–19_Serie_A', 8)
 
-with open('seriea_goals.json', 'w') as f:
+with open('seriea_goals.json', 'w+') as f:
     json.dump(seriea_goals.get_obj(), f, indent=2)
 
-with open('seriea_assists.json', 'w') as f:
+with open('seriea_assists.json', 'w+') as f:
     json.dump(seriea_assists.get_obj(), f, indent=2)
 
 laliga_goals = scrape_table('https://en.wikipedia.org/wiki/2018%E2%80%9319_La_Liga', 7)
 laliga_assists = scrape_table('https://en.wikipedia.org/wiki/2018%E2%80%9319_La_Liga', 8)
 
-with open('laliga_goals.json', 'w') as f:
+with open('laliga_goals.json', 'w+') as f:
     json.dump(laliga_goals.get_obj(), f, indent=2)
 
-with open('laliga_assists.json', 'w') as f:
+with open('laliga_assists.json', 'w+') as f:
     json.dump(laliga_assists.get_obj(), f, indent=2)
 
+ligue1_goals = scrape_table("https://en.wikipedia.org/wiki/2018%E2%80%9319_Ligue_1", 8)
+ligue1_assists = scrape_table("https://en.wikipedia.org/wiki/2018%E2%80%9319_Ligue_1", 9)
+
+with open('ligue1_goals.json', 'w+') as f:
+    json.dump(ligue1_goals.get_obj(), f, indent=2)
+
+with open('ligue1_assists.json', 'w+s') as f:
+    json.dump(ligue1_assists.get_obj(), f, indent=2)
+
+ligue1_goals = scrape_table("https://en.wikipedia.org/wiki/2018%E2%80%9319_Ligue_1", 8)
+ligue1_assists = scrape_table("https://en.wikipedia.org/wiki/2018%E2%80%9319_Ligue_1", 9)
+
+with open('ligue1_goals.json', 'w+') as f:
+    json.dump(ligue1_goals.get_obj(), f, indent=2)
+
+with open('ligue1_assists.json', 'w+') as f:
+    json.dump(ligue1_assists.get_obj(), f, indent=2)

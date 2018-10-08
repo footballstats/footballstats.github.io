@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Kylian Mbapp\u00e9",
+    "club": "Paris Saint-Germain",
+    "amount": "8",
+    "nation": "France",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "name": "Neymar",
+    "club": "Paris Saint-Germain",
+    "amount": 8,
+    "nation": "Brazil",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png"
+  },
+  {
+    "name": "Jonathan Bamba",
+    "club": "Lille",
+    "amount": "7",
+    "nation": "France",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "name": "Fran\u00e7ois Kamano",
+    "club": "Bordeaux",
+    "amount": 7,
+    "nation": "Guinea",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/23px-Flag_of_Guinea.svg.png"
+  },
+  {
+    "name": "Florian Thauvin",
+    "club": "Marseille",
+    "amount": 7,
+    "nation": "France",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "name": "Nicolas P\u00e9p\u00e9",
+    "club": "Lille",
+    "amount": "6",
+    "nation": "Ivory Coast",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/23px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png"
+  },
+  {
+    "name": "Edinson Cavani",
+    "club": "Paris Saint-Germain",
+    "amount": "5",
+    "nation": "Uruguay",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png"
+  },
+  {
+    "name": "Lebo Mothiba",
+    "club": "Strasbourg",
+    "amount": 5,
+    "nation": "South Africa",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png"
+  },
+  {
+    "name": "Nuno da Costa",
+    "club": "Strasbourg",
+    "amount": "4",
+    "nation": "Cape Verde",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/23px-Flag_of_Cape_Verde.svg.png"
+  },
+  {
+    "name": "Radamel Falcao",
+    "club": "Monaco",
+    "amount": 4,
+    "nation": "Colombia",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png"
+  },
+  {
+    "name": "Wahbi Khazri",
+    "club": "Saint-\u00c9tienne",
+    "amount": 4,
+    "nation": "Tunisia",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/23px-Flag_of_Tunisia.svg.png"
+  },
+  {
+    "name": "Dimitri Payet",
+    "club": "Marseille",
+    "amount": 4,
+    "nation": "France",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+  },
+  {
+    "name": "Emiliano Sala",
+    "club": "Nantes",
+    "amount": 4,
+    "nation": "Argentina",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
+  },
+  {
+    "name": "Bertrand Traor\u00e9",
+    "club": "Lyon",
+    "amount": 4,
+    "nation": "Burkina Faso",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/23px-Flag_of_Burkina_Faso.svg.png"
+  }
+]
