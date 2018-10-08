@@ -57,3 +57,7 @@ text = indent(doc.getvalue())
 
 with open('../{}.html'.format(code), 'w+') as f:
     f.write(text)
+
+with open('table.js') as f:
+    f.write("createTable('{}Goals', 'https://footballstats.github.io/script/data/{}_goals.json');\n".format(code,code))
+    f.write("createTable('{}Assists', 'https://footballstats.github.io/script/data/{}_assists.json');\n".format(code,code))
