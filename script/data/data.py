@@ -68,7 +68,7 @@ class scrape_table:
             })
         return obj
 
-epl_goals = scrape_table('https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League', 6)
+'''epl_goals = scrape_table('https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League', 6)
 epl_assists = scrape_table('https://en.wikipedia.org/wiki/2018%E2%80%9319_Premier_League', 8)
 
 with open('epl_goals.json', 'w+') as f:
@@ -111,7 +111,7 @@ with open('ligue1_goals.json', 'w+') as f:
     json.dump(ligue1_goals.get_obj(), f, indent=2)
 
 with open('ligue1_assists.json', 'w+') as f:
-    json.dump(ligue1_assists.get_obj(), f, indent=2)
+    json.dump(ligue1_assists.get_obj(), f, indent=2)'''
 
 mls_goals = scrape_table("https://en.wikipedia.org/wiki/2018_Major_League_Soccer_season", 12)
 mls_assists = scrape_table("https://en.wikipedia.org/wiki/2018_Major_League_Soccer_season", 13)
@@ -119,23 +119,5 @@ mls_assists = scrape_table("https://en.wikipedia.org/wiki/2018_Major_League_Socc
 with open('mls_goals.json', 'w+') as f:
     json.dump(mls_goals.get_obj(), f, indent=2)
 
-with open('mls_assists.json', 'w+s') as f:
-    json.dump(mls_assists.get_obj(), f, indent=2)
-
-mls_goals = scrape_table("https://en.wikipedia.org/wiki/2018_Major_League_Soccer_season", 12)
-mls_assists = scrape_table("https://en.wikipedia.org/wiki/2018_Major_League_Soccer_season", 14)
-
-with open('mls_goals.json', 'w+') as f:
-    json.dump(mls_goals.get_obj(), f, indent=2)
-
-with open('mls_assists.json', 'w+s') as f:
-    json.dump(mls_assists.get_obj(), f, indent=2)
-
-mls_goals = scrape_table("https://en.wikipedia.org/wiki/2018_Major_League_Soccer_season", 12)
-mls_assists = scrape_table("https://en.wikipedia.org/wiki/2018_Major_League_Soccer_season", 13)
-
-with open('mls_goals.json', 'w+') as f:
-    json.dump(mls_goals.get_obj(), f, indent=2)
-
-with open('mls_assists.json', 'w+s') as f:
+with open('mls_assists.json', 'w+') as f:
     json.dump(mls_assists.get_obj(), f, indent=2)

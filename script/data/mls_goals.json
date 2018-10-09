@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Josef Mart\u00ednez",
+    "club": "Atlanta United",
+    "amount": "30",
+    "nation": "Venezuela",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png"
+  },
+  {
+    "name": "Zlatan Ibrahimovi\u0107",
+    "club": "LA Galaxy",
+    "amount": "21",
+    "nation": "Sweden",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png"
+  },
+  {
+    "name": "Bradley Wright-Phillips",
+    "club": "New York Red Bulls",
+    "amount": "20",
+    "nation": "England",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png"
+  },
+  {
+    "name": "Gyasi Zardes",
+    "club": "Columbus Crew",
+    "amount": "16",
+    "nation": "United States",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png"
+  },
+  {
+    "name": "Mauro Manotas",
+    "club": "Houston Dynamo",
+    "amount": "15",
+    "nation": "Colombia",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png"
+  },
+  {
+    "name": "Nemanja Nikoli\u0107",
+    "club": "Chicago Fire",
+    "amount": 15,
+    "nation": "Hungary",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png"
+  },
+  {
+    "name": "Kei Kamara",
+    "club": "Vancouver Whitecaps",
+    "amount": "14",
+    "nation": "Sierra Leone",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/23px-Flag_of_Sierra_Leone.svg.png"
+  },
+  {
+    "name": "Ignacio Piatti",
+    "club": "Montreal Impact",
+    "amount": 14,
+    "nation": "Argentina",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
+  },
+  {
+    "name": "Miguel Almir\u00f3n",
+    "club": "Atlanta United",
+    "amount": "12",
+    "nation": "Paraguay",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/23px-Flag_of_Paraguay.svg.png"
+  },
+  {
+    "name": "Dom Dwyer",
+    "club": "Orlando City",
+    "amount": 12,
+    "nation": "United States",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png"
+  },
+  {
+    "name": "Sebastian Giovinco",
+    "club": "Toronto FC",
+    "amount": 12,
+    "nation": "Italy",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png"
+  },
+  {
+    "name": "Danny Hoesen",
+    "club": "San Jose Earthquakes",
+    "amount": 12,
+    "nation": "Netherlands",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png"
+  },
+  {
+    "name": "Aleksandar Katai",
+    "club": "Chicago Fire",
+    "amount": 12,
+    "nation": "Serbia",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/23px-Flag_of_Serbia.svg.png"
+  },
+  {
+    "name": "David Villa",
+    "club": "New York City FC",
+    "amount": 12,
+    "nation": "Spain",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
+  }
+]

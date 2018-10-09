@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Bo\u0159ek Do\u010dkal",
+    "club": "Philadelphia Union",
+    "amount": "17",
+    "nation": "Czech Republic",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png"
+  },
+  {
+    "name": "Luciano Acosta",
+    "club": "D.C. United",
+    "amount": "16",
+    "nation": "Argentina",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
+  },
+  {
+    "name": "Maximiliano Moralez",
+    "club": "New York City FC",
+    "amount": "15",
+    "nation": "Argentina",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
+  },
+  {
+    "name": "Miguel Almir\u00f3n",
+    "club": "Atlanta United",
+    "amount": "14",
+    "nation": "Paraguay",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/23px-Flag_of_Paraguay.svg.png"
+  },
+  {
+    "name": "Sebastian Giovinco",
+    "club": "Toronto FC",
+    "amount": 14,
+    "nation": "Italy",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png"
+  },
+  {
+    "name": "Julian Gressel",
+    "club": "Atlanta United",
+    "amount": 14,
+    "nation": "Germany",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png"
+  },
+  {
+    "name": "Alejandro Romero Gamarra",
+    "club": "New York Red Bulls",
+    "amount": 14,
+    "nation": "Paraguay",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/23px-Flag_of_Paraguay.svg.png"
+  },
+  {
+    "name": "Ignacio Piatti",
+    "club": "Montreal Impact",
+    "amount": "13",
+    "nation": "Argentina",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
+  },
+  {
+    "name": "Darwin Quintero",
+    "club": "Minnesota United",
+    "amount": 13,
+    "nation": "Colombia",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png"
+  },
+  {
+    "name": "Alphonso Davies",
+    "club": "Vancouver Whitecaps",
+    "amount": "11",
+    "nation": "Canada",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png"
+  },
+  {
+    "name": "Nicol\u00e1s Lodeiro",
+    "club": "Seattle Sounders",
+    "amount": 11,
+    "nation": "Uruguay",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png"
+  },
+  {
+    "name": "Romell Quioto",
+    "club": "Houston Dynamo",
+    "amount": 11,
+    "nation": "Honduras",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/23px-Flag_of_Honduras.svg.png"
+  },
+  {
+    "name": "Yordy Reyna",
+    "club": "Vancouver Whitecaps",
+    "amount": 11,
+    "nation": "Peru",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/23px-Flag_of_Peru.svg.png"
+  },
+  {
+    "name": "Jefferson Savarino",
+    "club": "Real Salt Lake",
+    "amount": 11,
+    "nation": "Venezuela",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png"
+  },
+  {
+    "name": "Maximiliano Urruti",
+    "club": "FC Dallas",
+    "amount": 11,
+    "nation": "Argentina",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
+  },
+  {
+    "name": "Diego Valeri",
+    "club": "Portland Timbers",
+    "amount": 11,
+    "nation": "Argentina",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
+  }
+]
