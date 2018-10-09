@@ -42,3 +42,5 @@ createTable('serieaGoals', 'https://footballstats.github.io/script/data/seriea_g
 createTable('serieaAssists', 'https://footballstats.github.io/script/data/seriea_assists.json');
 createTable('mlsGoals', 'https://footballstats.github.io/script/data/mls_goals.json');
 createTable('mlsAssists', 'https://footballstats.github.io/script/data/mls_assists.json');
+createTable('ligue1Goals', 'https://footballstats.github.io/script/data/ligue1_goals.json');
+createTable('ligue1Assists', 'https://footballstats.github.io/script/data/ligue1_assists.json');
