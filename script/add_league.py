@@ -18,7 +18,7 @@ with open('data/data.py','a') as data:
     data.write("with open('{}_goals.json', 'w+') as f:\n".format(code))
     data.write("    json.dump({}_goals.get_obj(), f, indent=2)".format(code))
     data.write('\n\n')
-    data.write("with open('{}_assists.json', 'w+s') as f:\n".format(code))
+    data.write("with open('{}_assists.json', 'w+') as f:\n".format(code))
     data.write("    json.dump({}_assists.get_obj(), f, indent=2)".format(code))
     
 

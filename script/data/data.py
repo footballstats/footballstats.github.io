@@ -110,5 +110,5 @@ ligue1_assists = scrape_table("https://en.wikipedia.org/wiki/2018-19_Ligue_1", 9
 with open('ligue1_goals.json', 'w+') as f:
     json.dump(ligue1_goals.get_obj(), f, indent=2)
 
-with open('ligue1_assists.json', 'w+s') as f:
+with open('ligue1_assists.json', 'w+') as f:
     json.dump(ligue1_assists.get_obj(), f, indent=2)
